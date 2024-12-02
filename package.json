@@ -27,7 +27,7 @@
     "cypress": "^13.1.0",
     "eslint": "^8.46.0",
     "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-vue": "^9.17.0",
+    "eslint-plugin-vue": "^9.32.0",
     "happy-dom": "^15.11.6",
     "prettier": "^3.0.1",
     "vite": "^4.4.9",
